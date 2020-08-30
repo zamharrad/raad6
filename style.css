@@ -98,6 +98,13 @@ a {
   background-color: crimson;
 }
 
+#service {
+}
+
+#service .services {
+  flex-direction: column;
+}
+
 @keyframes text_reveal_box {
   50% {
     width: 100%;
